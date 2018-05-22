@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Through
+  - Fire
+  - Tiles
+  - Itembox
+  - Coinbox
+  - Tipbox
+  - Coin
+  - Speed
+  - SuperJump
+  - RedKey
+  - YellowKey
+  - GreenKey
+  - BlueKey
+  - Door
+  - Spring
+  - Hazard
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Obstacle
+  - Backdrop
+  - Tiles
+  - Items
+  - Boxes
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background/Backdrop
+    uniqueID: 4060404337
+    locked: 0
+  - name: Background/Tiles
+    uniqueID: 704970573
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground/PlayersAndEnemies
+    uniqueID: 3659580033
+    locked: 0
+  - name: Foreground/Items
+    uniqueID: 2775263355
+    locked: 0
+  - name: Foreground/Tiles
+    uniqueID: 2977891833
+    locked: 0
+  - name: Foreground/HUD
+    uniqueID: 627218723
+    locked: 0
